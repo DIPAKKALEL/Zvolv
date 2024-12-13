@@ -25,7 +25,7 @@ And I click on "VT=Select roles"
 And I click on "VT=All Org Users"
 And I click on "VT=Linked Users"
 And I click on "VT=System Admin"
-And I wait for 1 Seconds
+And I wait for 2 Seconds
 And I click on Tab 
 And I click on Edit Permission "VT=Select roles" Dropdown
 And I wait for 1 Seconds
